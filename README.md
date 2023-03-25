@@ -1,7 +1,6 @@
 - CS Student at Cabrillo College
-- Computer Science Tutor
-- Proficient in Japanese language
-- Working on: Full Stack Web Development with MERN, 
-    Home internet security, 
+- Math and CS Tutor
+- Currently learning: Rust, Differential Equations
 - Interested in: Artificial Intelligence,
     Cybersecurity, Software Engineering
+- Proficient in Japanese language
