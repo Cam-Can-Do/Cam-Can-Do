@@ -1,3 +1,3 @@
 - CS Student
 - Currently learning: Python, Rust, Cybersecurity
-- Interested in: Software Engineering, AI/ML
+- Interested in pursuing: Cybersecurity, Software Engineering, AI/ML
