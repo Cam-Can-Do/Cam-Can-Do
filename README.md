@@ -1,3 +1,4 @@
 - CS Student
 - Currently learning: C, Discrete Mathematics, and Cybersecurity.
 - Interested in pursuing: Cybersecurity, Software Engineering, AI/ML
+- cameroncandau.com
