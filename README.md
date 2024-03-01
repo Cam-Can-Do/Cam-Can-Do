@@ -1,5 +1,5 @@
 - CS Student
-- Currently learning: C, Discrete Mathematics, and Cybersecurity.
+- Currently enrolled in: Data Structures and Algorithms, Computer Architecture
 - Interested in pursuing: Cybersecurity, Software Engineering, AI/ML
 - Productivity and Self-Improvement Enthusiast
 - cameroncandau.com
