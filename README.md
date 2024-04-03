@@ -1,2 +1,1 @@
-- CS Student
-- cameroncandau.com
+- Computer Science and Cybersecurity Student
