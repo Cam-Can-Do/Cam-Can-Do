@@ -1,1 +1,2 @@
 - Computer Science and Cybersecurity Student
+- I use this account for everything from side projects, private school-related projects, personal knowlege management notes, and syncing my leetcode solutions. 
