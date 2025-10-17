@@ -1,2 +1,1 @@
-- Recent Computer Science Graduate from UC Santa Cruz.
-- I use this account for everything from side projects, private school-related work, personal knowlege management notes, and syncing my leetcode solutions. 
+
